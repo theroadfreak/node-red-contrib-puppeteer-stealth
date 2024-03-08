@@ -1,4 +1,4 @@
-# @digitalnodecom/node-red-contrib-puppeteer
+# @digitalnodecom/node-red-contrib-puppeteer + puppeteer-stealth
 
 <img src="https://digitalnode.com/wp-content/themes/digitalnode/public/assets/images/logo.1f5845.svg" alt="drawing" width="400"/>
 <img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="drawing" height="225"/>
