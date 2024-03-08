@@ -1,4 +1,7 @@
-const puppeteer = require("puppeteer");
+const puppeteer = require('puppeteer-extra');
+const Stealth = require('puppeteer-extra-plugin-stealth');
+
+puppeteer.use(Stealth());
 
 module.exports = function (RED) {
   function PuppeteerBrowserLaunch(nodeConfig) {
